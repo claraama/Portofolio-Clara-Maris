@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karma&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+@import "tailwindcss";
+
+@theme{
+
+  --font-text: 'Noto Sans', sans-serif;
+  --font-logo: 'Karma', serif;
+  --font-moretext: 'Inter', sans-serif;
+  
+
+
+  --color-MainPink: #FFCDCD;
+  --color-DatesPink:#FF7979;
+  --color-darkPink:#922E2E;
+
+  
+}
